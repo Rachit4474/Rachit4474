@@ -369,3 +369,224 @@ Bugs are not game over. They are clues.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,30:312e81,65:172554,100:020617&height=180&section=footer&animation=twinkling" width="100%" alt="Animated footer">
 
 </div>
+
+---
+
+# `> ZEGNITE WIDGET CONTROL CENTER`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2400&pause=800&color=00F5D4&center=true&vCenter=true&width=760&lines=LIVE+PLAYER+DATA+STREAM;ACHIEVEMENTS+%7C+STATS+%7C+ACTIVITY;WELCOME+TO+THE+COMMAND+CENTER" alt="Widget dashboard animation">
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rachit4474&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub achievement trophies">
+
+</div>
+
+## `> PLAYER STATISTICS`
+
+<div align="center">
+
+<a href="https://github.com/Rachit4474">
+<img src="https://github-readme-stats.vercel.app/api?username=Rachit4474&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=050816&title_color=00F5D4&icon_color=FF2BD6&text_color=E2E8F0&ring_color=00F5D4" height="180" alt="GitHub stats">
+</a>
+
+<a href="https://github.com/Rachit4474?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit4474&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=E2E8F0" height="180" alt="Top programming languages">
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Rachit4474&hide_border=true&background=050816&ring=00F5D4&fire=FF2BD6&currStreakLabel=00F5D4&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="Contribution streak">
+
+</div>
+
+## `> CONTRIBUTION ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rachit4474&bg_color=050816&color=E2E8F0&line=00F5D4&point=FF2BD6&area_color=172554&area=true&hide_border=true&custom_title=Zegnite%20Activity%20Matrix" width="100%" alt="GitHub activity graph">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake game">
+
+</div>
+
+## `> REPOSITORY SCANNER`
+
+<div align="center">
+
+<a href="https://github.com/Rachit4474/python-projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit4474&repo=python-projects&theme=transparent&hide_border=true&title_color=00F5D4&icon_color=FF2BD6&text_color=E2E8F0&bg_color=050816" alt="Python projects repository">
+</a>
+
+<a href="https://github.com/Rachit4474?tab=repositories">
+<img src="https://img.shields.io/badge/SCAN_ALL_REPOSITORIES-00F5D4?style=for-the-badge&logo=github&logoColor=050816" alt="Scan all repositories">
+</a>
+
+</div>
+
+> The repository card will display once you create a repository named `python-projects`. Until then, the scan button still works.
+
+## `> LIVE PROFILE SIGNALS`
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Rachit4474&label=PROFILE%20SCANS&color=00F5D4&style=for-the-badge" alt="Profile scans">
+<img src="https://img.shields.io/github/followers/Rachit4474?label=FOLLOWERS&style=for-the-badge&color=FF2BD6&labelColor=050816" alt="Followers">
+<img src="https://img.shields.io/github/stars/Rachit4474?label=TOTAL%20STARS&style=for-the-badge&color=7C3AED&labelColor=050816" alt="Stars">
+<img src="https://img.shields.io/github/last-commit/Rachit4474/Rachit4474?label=LAST%20PROFILE%20UPDATE&style=for-the-badge&color=39FF14&labelColor=050816" alt="Last update">
+
+</div>
+
+## `> RANDOM TRANSMISSION`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" alt="Random developer quote">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&lines=%5BQUOTE+ENGINE%5D+Searching+for+wisdom...;%5BQUOTE+ENGINE%5D+Transmission+received.;%5BQUOTE+ENGINE%5D+Stay+curious.+Keep+building." alt="Quote engine animation">
+
+</div>
+
+## `> COMMAND CENTER STATUS`
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                 WIDGET SYSTEM DIAGNOSTICS                 ║
+╠══════════════════════════════════════════════════════════╣
+║ Trophy Engine          : ONLINE                           ║
+║ Statistics Engine      : ONLINE                           ║
+║ Language Scanner       : ONLINE                           ║
+║ Streak Monitor         : ONLINE                           ║
+║ Activity Matrix        : ONLINE                           ║
+║ Contribution Snake     : ARMED                            ║
+║ Repository Scanner     : STANDBY                          ║
+║ Quote Transmission     : CONNECTED                        ║
+║ Profile Theme          : CYBERPUNK / GAMING               ║
+╠══════════════════════════════════════════════════════════╣
+║ OVERALL SYSTEM STATUS  : FULLY OPERATIONAL                ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360" alt="Animated futuristic computer">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=17&duration=2600&pause=900&color=FF2BD6&center=true&vCenter=true&width=700&lines=DATA+STREAM+STABLE;ALL+WIDGETS+RESPONDING;PLAYER+PROFILE+FULLY+LOADED" alt="Widget status animation">
+
+</div>
+
+---
+
+# `> LIVE 3D PROFILE SIGNAL`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=800&lines=LIVE+GITHUB+SIGNAL+CONNECTED;PROFILE+SCAN+COMPLETE;ACTIVITY+MATRIX+ONLINE;3D+CONTRIBUTION+ENGINE+ARMED" alt="Live profile signal animation">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rachit4474&theme=github_dark" width="96%" alt="Live GitHub profile details">
+
+</div>
+
+## `> PROFILE SCAN`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rachit4474&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07111F&title_color=00F5D4&icon_color=FF2BD6&text_color=E2E8F0&rank_icon=github" height="190" alt="Live GitHub profile statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit4474&layout=compact&langs_count=8&hide_border=true&bg_color=07111F&title_color=00F5D4&text_color=E2E8F0" height="190" alt="Live language statistics">
+
+</div>
+
+## `> PROFILE SIGNAL`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rachit4474&hide_border=true&background=07111F&ring=00F5D4&fire=FF2BD6&currStreakLabel=00F5D4&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="78%" alt="Live contribution streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rachit4474&bg_color=07111F&color=E2E8F0&line=00F5D4&point=FF2BD6&area_color=172554&area=true&hide_border=true&custom_title=ZEGNITE%20LIVE%20ACTIVITY%20SIGNAL" width="96%" alt="Live activity signal graph">
+
+</div>
+
+## `> LANGUAGE STACK`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rachit4474&theme=github_dark" height="190" alt="Repositories by language">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rachit4474&theme=github_dark" height="190" alt="Most committed languages">
+
+</div>
+
+```text
+REPOSITORY-WEIGHTED LANGUAGE SCAN
+
+HTML       [████████████████░░░░] PRIMARY WEB STRUCTURE
+Python     [██████████████░░░░░░] PROGRAMMING CORE
+C++        [████████████░░░░░░░░] LOGIC TRAINING
+React      [██████████░░░░░░░░░░] INTERFACE SYSTEM
+MySQL      [█████████░░░░░░░░░░░] DATABASE SYSTEM
+```
+
+## `> 3D CONTRIBUTION MAP`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rachit4474/Rachit4474/output/profile-3d-contrib/profile-green-animate.svg" width="96%" alt="Animated 3D GitHub contribution map">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Rachit4474/Rachit4474/output/profile-3d-contrib/profile-night-rainbow.svg" width="96%" alt="Rainbow 3D GitHub contribution map">
+
+</div>
+
+> The 3D maps are generated automatically by GitHub Actions. They will appear after the workflow runs successfully at least once.
+
+## `> PROJECT RADAR`
+
+<div align="center">
+
+<a href="https://github.com/Rachit4474?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit4474&repo=python-projects&theme=transparent&hide_border=true&title_color=00F5D4&icon_color=FF2BD6&text_color=E2E8F0&bg_color=07111F" alt="Python projects radar card">
+</a>
+
+<a href="https://github.com/Rachit4474?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT%20RADAR-00F5D4?style=for-the-badge&logo=github&logoColor=07111F" alt="Open project radar">
+</a>
+
+</div>
+
+> The radar card becomes active when you create a repository named `python-projects`. Change `repo=python-projects` in this README if you choose another name.
+
+## `> LIVE WIDGET STATUS`
+
+<div align="center">
+
+| Widget | Data source | Status |
+|---|---|---|
+| Profile details | Public GitHub activity | `LIVE` |
+| Statistics card | GitHub repositories and commits | `LIVE` |
+| Language stack | Repository language data | `LIVE` |
+| Streak signal | Contribution history | `LIVE` |
+| Activity graph | Contribution events | `LIVE` |
+| 3D contribution map | GitHub Actions generated SVG | `AUTO-UPDATING` |
+| Project radar | Selected repository | `WAITING FOR PROJECT` |
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2300&pause=700&color=39FF14&center=true&vCenter=true&width=750&lines=PROFILE+SIGNAL+STABLE;LIVE+DATA+STREAM+CONNECTED;CONTRIBUTION+TERRAIN+RENDERING;ZEGNITE+SYSTEM+FULLY+OPERATIONAL" alt="Live widget status">
+
+</div>
