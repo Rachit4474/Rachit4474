@@ -1,82 +1,166 @@
 <div align="center">
 
-<!-- ===== FUTURISTIC HEADER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:00f0ff,70:ff00aa,100:0a0a1a&height=280&section=header&text=Rachit4474&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=NEON%20CODER%20%7C%20DIGITAL%20WARRIOR%20%7C%20OPEN%20SOURCE%20HUNTER&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+the+future%2C+one+commit+at+a+time;Cyberpunk+Developer+%7C+Full-Stack+Warrior;Leveling+up+in+the+digital+arena;Open+Source+%E2%9C%A8+Neon+Code)](https://git.io/typing-svg)
-
-<br/>
-
-### 🎮 PLAYER PROFILE
-
-<img src="https://img.shields.io/badge/LEVEL-∞-00f0ff?style=for-the-badge&logo=gamepad&logoColor=white"/>
-<img src="https://img.shields.io/badge/CLASS-Full--Stack%20Cyber%20Mage-ff00aa?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-Online%20%26%20Coding-39ff14?style=for-the-badge"/>
-
-<br/>
-
-<!-- ===== STATS CARDS (Neon Theme) ===== -->
-<a href="https://github.com/Rachit4474">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rachit4474&show_icons=true&theme=neon&hide_border=true&bg_color=0a0a1a&title_color=00f0ff&icon_color=ff00aa&text_color=e0e0ff&ring_color=00f0ff" />
-</a>
-<a href="https://github.com/Rachit4474">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit4474&layout=compact&theme=neon&hide_border=true&bg_color=0a0a1a&title_color=ff00aa&text_color=e0e0ff" />
-</a>
+<!-- Animated neon header -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&height=90&lines=SYSTEM+ONLINE;RACHIT4474+NEURAL+LINK;FUTURE+IS+NOW;ENTER+THE+MATRIX" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Rachit4474&theme=neon-dark&hide_border=true&background=0a0a1a&ring=00f0ff&fire=ff00aa&currStreakLabel=00f0ff" width="480"/>
+### ⚡ NEURAL PROFILE INTERFACE ⚡
+**Rachit4474** · Full-Stack Architect · AI Explorer · Space Cadet
 
-<br/><br/>
+[![GitHub followers](https://img.shields.io/github/followers/Rachit4474?style=for-the-badge&logo=github&color=00f5ff&labelColor=0d1117)](https://github.com/Rachit4474)
+[![Stars](https://img.shields.io/github/stars/Rachit4474?affiliations=OWNER&style=for-the-badge&color=ff00aa&labelColor=0d1117)](https://github.com/Rachit4474)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rachit4474&style=for-the-badge&color=00ff9f&label=NEURAL+SCANS)](https://github.com/Rachit4474)
 
-<!-- ===== 3D CONTRIBUTION WIDGET ===== -->
-### 🌌 3D Contribution Skyline
-<!-- After setting up the action (see instructions below) -->
-<img src="https://raw.githubusercontent.com/Rachit4474/Rachit4474/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+</div>
 
-<br/>
+---
 
-<!-- ===== SNAKE (Gaming vibe) ===== -->
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Rachit4474/Rachit4474/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" width="100%"/>
-
-<br/>
-
-<!-- ===== SKILLS / TECH STACK ===== -->
-### ⚡ Tech Arsenal
-
+### 🌌 ACTIVITY SKYLINE
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,go,rust,docker,kubernetes,aws,linux,git,figma,tailwind,threejs&perline=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rachit4474&bg_color=0d1117&color=00f5ff&line=ff00aa&point=00ff9f&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://rachit4474.github.io/games-hub/">
+    <img src="https://img.shields.io/badge/ENTER_3D_%26_GAMES_PORTAL-00F5FF?style=for-the-badge&logo=three.js&logoColor=black&labelColor=0d1117" alt="3D Portal"/>
+  </a>
+</p>
 
-<!-- ===== FEATURED PROJECTS (Game-style cards) ===== -->
-### 🏆 Featured Missions
+---
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit4474&repo=YOUR_COOL_REPO1&theme=neon&hide_border=true&bg_color=0a0a1a&title_color=00f0ff&icon_color=ff00aa" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit4474&repo=YOUR_COOL_REPO2&theme=neon&hide_border=true&bg_color=0a0a1a&title_color=ff00aa&icon_color=00f0ff" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit4474&repo=YOUR_COOL_REPO3&theme=neon&hide_border=true&bg_color=0a0a1a&title_color=39ff14&icon_color=ff00aa" />
-    </td>
-  </tr>
-</table>
+### ♟️ INTERACTIVE CHESS ARENA
+Play a full chess game in the dedicated arena (drag pieces, legal moves, check detection).
 
-<br/>
+<p align="center">
+  <a href="https://rachit4474.github.io/games-hub/chess.html">
+    <img src="https://img.shields.io/badge/♟️_LAUNCH_FULL_CHESS_ENGINE-00F5FF?style=for-the-badge&logo=lichess&logoColor=black" height="42"/>
+  </a>
+</p>
 
-<!-- ===== GAMING HUD FOOTER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:ff00aa,100:00f0ff&height=120&section=footer&text=Keep%20shipping.%20Stay%20neon.&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+---
 
-<br/>
+### 🚀 ROCKET / ASTEROID SURVIVAL
+Pilot your ship through an asteroid field. Survive as long as you can.
 
-**“In the neon city of code, every commit is a power-up.”**
+<p align="center">
+  <a href="https://rachit4474.github.io/games-hub/rocket.html">
+    <img src="https://img.shields.io/badge/🚀_LAUNCH_ROCKET_GAME-FF00AA?style=for-the-badge&logo=spacex&logoColor=white" height="42"/>
+  </a>
+</p>
+
+**Controls:** Arrow keys / WASD to move · Space to fire · Survive!
+
+---
+
+### 🔮 TECH MATRIX & STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rachit4474&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00aa&text_color=e6edf3" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit4474&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=e6edf3" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rachit4474&theme=radical&hide_border=true&background=0d1117&ring=00f5ff&fire=ff00aa&currStreakLabel=00ff9f" />
+</p>
+
+---
+
+### 🛸 CURRENT MISSIONS
+- Building next-gen AI agents & immersive 3D web experiences
+- Exploring space-tech + open-source
+- Always shipping futuristic interfaces
+
+---
+
+<div align="center">
+
+**ENTER THE FULL INTERACTIVE HUB**  
+[![Games + 3D Portal](https://img.shields.io/badge/ENTER_3D_%26_GAMES_PORTAL-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=00f5ff)](https://rachit4474.github.io/games-hub/)
+
+Made with ⚡ neon energy · Last updated: 2026
+
+</div>
+<div align="center">
+
+<!-- Animated neon header -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&height=90&lines=SYSTEM+ONLINE;RACHIT4474+NEURAL+LINK;FUTURE+IS+NOW;ENTER+THE+MATRIX" alt="Typing SVG" />
+
+<br/><br/>
+
+### ⚡ NEURAL PROFILE INTERFACE ⚡
+**Rachit4474** · Full-Stack Architect · AI Explorer · Space Cadet
+
+[![GitHub followers](https://img.shields.io/github/followers/Rachit4474?style=for-the-badge&logo=github&color=00f5ff&labelColor=0d1117)](https://github.com/Rachit4474)
+[![Stars](https://img.shields.io/github/stars/Rachit4474?affiliations=OWNER&style=for-the-badge&color=ff00aa&labelColor=0d1117)](https://github.com/Rachit4474)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rachit4474&style=for-the-badge&color=00ff9f&label=NEURAL+SCANS)](https://github.com/Rachit4474)
+
+</div>
+
+---
+
+### 🌌 ACTIVITY SKYLINE
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rachit4474&bg_color=0d1117&color=00f5ff&line=ff00aa&point=00ff9f&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <a href="https://rachit4474.github.io/games-hub/">
+    <img src="https://img.shields.io/badge/ENTER_3D_%26_GAMES_PORTAL-00F5FF?style=for-the-badge&logo=three.js&logoColor=black&labelColor=0d1117" alt="3D Portal"/>
+  </a>
+</p>
+
+---
+
+### ♟️ INTERACTIVE CHESS ARENA
+Play a full chess game in the dedicated arena (drag pieces, legal moves, check detection).
+
+<p align="center">
+  <a href="https://rachit4474.github.io/games-hub/chess.html">
+    <img src="https://img.shields.io/badge/♟️_LAUNCH_FULL_CHESS_ENGINE-00F5FF?style=for-the-badge&logo=lichess&logoColor=black" height="42"/>
+  </a>
+</p>
+
+---
+
+### 🚀 ROCKET / ASTEROID SURVIVAL
+Pilot your ship through an asteroid field. Survive as long as you can.
+
+<p align="center">
+  <a href="https://rachit4474.github.io/games-hub/rocket.html">
+    <img src="https://img.shields.io/badge/🚀_LAUNCH_ROCKET_GAME-FF00AA?style=for-the-badge&logo=spacex&logoColor=white" height="42"/>
+  </a>
+</p>
+
+**Controls:** Arrow keys / WASD to move · Space to fire · Survive!
+
+---
+
+### 🔮 TECH MATRIX & STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rachit4474&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00aa&text_color=e6edf3" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit4474&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=e6edf3" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rachit4474&theme=radical&hide_border=true&background=0d1117&ring=00f5ff&fire=ff00aa&currStreakLabel=00ff9f" />
+</p>
+
+---
+
+### 🛸 CURRENT MISSIONS
+- Building next-gen AI agents & immersive 3D web experiences
+- Exploring space-tech + open-source
+- Always shipping futuristic interfaces
+
+---
+
+<div align="center">
+
+**ENTER THE FULL INTERACTIVE HUB**  
+[![Games + 3D Portal](https://img.shields.io/badge/ENTER_3D_%26_GAMES_PORTAL-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=00f5ff)](https://rachit4474.github.io/games-hub/)
+
+Made with ⚡ neon energy · Last updated: 2026
 
 </div>
