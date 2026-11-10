@@ -11,7 +11,7 @@
 
 ---
 
-# `> INITIALIZING PROFILE`
+# `🚀 INITIALIZING PROFILE`
 
 ```text
 ╔════════════════════════════════════════════════════════════╗
@@ -36,7 +36,7 @@
 
 ---
 
-## `> LOADING SCREEN`
+## `⏳ LOADING SCREEN`
 <div align="center">
 ```text
 LOADING DIGITAL REALM...
@@ -52,7 +52,7 @@ Loading coffee................... REQUIRED
 
 ---
 
-## `> PLAYER HUD`
+## `🎮 PLAYER HUD`
 <div align="center">
 | HUD Module | Status |
 |---|---|
@@ -68,12 +68,12 @@ Loading coffee................... REQUIRED
 
 ---
 
-## `> RANDOM SYSTEM MESSAGE`
+## `💬 RANDOM SYSTEM MESSAGE`
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1300&color=FF2BD6&center=true&vCenter=true&width=800&lines=There+is+no+final+boss+in+learning.;A+bug+is+just+an+unexpected+feature.;Code+hard.+Dream+big.;The+console+is+always+watching.;One+more+commit+before+sleep..." alt="Random messages"></div>
 
 ---
 
-## `> INVENTORY`
+## `🎒 INVENTORY`
 <div align="center">
 ```text
 ╔════════════════════════════════════════════════════╗
@@ -92,7 +92,7 @@ Loading coffee................... REQUIRED
 
 ---
 
-## `> MINI GAME: CHOOSE YOUR CLASS`
+## `🎯 MINI GAME: CHOOSE YOUR CLASS`
 <div align="center">
 ```text
 SELECT YOUR DEVELOPER CLASS
@@ -107,7 +107,7 @@ SELECT YOUR DEVELOPER CLASS
 
 ---
 
-# `> WHO AM I?`
+# `🕵️‍♂️ WHO AM I?`
 
 Hello, I’m **Zegnite**, also known as **Rachit**. I am a developer who enjoys exploring technology, solving problems, designing digital experiences, and turning ideas into working software. I am focused on strengthening my programming foundation while learning how technologies work together to create complete applications.
 
@@ -125,7 +125,7 @@ I enjoy taking an idea, breaking it into smaller pieces, understanding the logic
 
 ---
 
-# `> PLAYER CARD`
+# `🃏 PLAYER CARD`
 
 | Attribute | Current Level |
 |---|---|
@@ -138,7 +138,7 @@ I enjoy taking an idea, breaking it into smaller pieces, understanding the logic
 
 ---
 
-# `> TECH ARSENAL`
+# `🛠️ TECH ARSENAL`
 
 <div align="center"><img src="https://skillicons.dev/icons?i=html,python,cpp,react,mysql,git,github,vscode&theme=dark&perline=8" alt="Technology icons"></div>
 
@@ -165,7 +165,7 @@ Git        [████████████░░░░░░░░] VERSIO
 
 ---
 
-# `> CURRENT MISSIONS`
+# `🎯 CURRENT MISSIONS`
 
 ## Mission 01 — Master the fundamentals
 Strengthen programming logic, functions, data structures, algorithms, and clean code.
@@ -190,7 +190,7 @@ Publish complete projects that demonstrate what I can build and how I solve prob
 
 ---
 
-# `> DEVELOPMENT PROTOCOL`
+# `⚙️ DEVELOPMENT PROTOCOL`
 
 ```text
 [01] IDEA       Understand the problem.
@@ -204,7 +204,7 @@ Publish complete projects that demonstrate what I can build and how I solve prob
 
 ---
 
-# `> PROJECT INVENTORY`
+# `📂 PROJECT INVENTORY`
 
 My public project collection is currently under construction. I am focusing on learning the fundamentals properly before filling this section with meaningful projects.
 
@@ -232,7 +232,7 @@ My public project collection is currently under construction. I am focusing on l
 
 ---
 
-# `> ACHIEVEMENT SYSTEM`
+# `🏆 ACHIEVEMENT SYSTEM`
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
@@ -265,7 +265,7 @@ Achievement unlocked: Curious Explorer
 
 ---
 
-# `> COMBAT LOG`
+# `⚔️ COMBAT LOG`
 
 <div align="center">
 
@@ -297,13 +297,13 @@ Achievement unlocked: Curious Explorer
 
 ---
 
-# `> CONTRIBUTION MATRIX`
+# `🌐 CONTRIBUTION MATRIX`
 
 <div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"></div>
 
 ---
 
-# `> DIGITAL PET`
+# `🐱 DIGITAL PET`
 
 <div align="center">
 
@@ -326,7 +326,7 @@ Achievement unlocked: Curious Explorer
 
 ---
 
-# `> ROADMAP`
+# `🗺️ ROADMAP`
 
 * **Foundation:** Improve HTML, CSS, Python, C++, Git, and GitHub skills.
 * **Interfaces:** Learn JavaScript, React, responsive layouts, and UI design.
@@ -335,7 +335,7 @@ Achievement unlocked: Curious Explorer
 
 ---
 
-# `> CODE PHILOSOPHY`
+# ` 💡CODE PHILOSOPHY`
 
 > Good code is understandable, maintainable, purposeful, and capable of becoming better.
 
@@ -353,7 +353,7 @@ Bugs are not game over. They are clues.
 
 ---
 
-# `> TRANSMISSION CHANNEL`
+# `📡 TRANSMISSION CHANNEL`
 
 <div align="center">
 
